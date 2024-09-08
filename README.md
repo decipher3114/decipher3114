@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decipher3114&label=Profile%20views&color=0e75b6&style=flat" alt="decipher3114" /> </p>
 
-- 🔭 I’m currently working on [Revancify](https://github.com/decipher3114/Revancify)
+- 🔭 I’m currently working on [Capter](https://github.com/decipher3114/Capter)
 
-- 🌱 I’m currently learning **Web Dev in Rust**
+- 🌱 I’m currently learning **Cross-Platform Dev in Rust**
 
-- 👯 I’m looking to collaborate on **xync**
+- 👯 I’m looking to collaborate on **[Capter](https://github.com/decipher3114/Capter)**
 
 - ⚡ Fun fact **I just love music 🎵...**
 
