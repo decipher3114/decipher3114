@@ -13,7 +13,21 @@
 
 ### 🛠️ Tech Stack
 
-![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=rust,cpp,c,java,kotlin,python,bash,aws,gcp,docker,linux,postgresql,redis,git,javascript,svelte,spring)
+#### Languages:
+
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=rust,cpp,c,python,java,kotlin,typescript,javascript,bash,powershell,html,css)
+
+#### Frameworks & Libraries:
+
+![Frameworks & Libraries](https://go-skill-icons.vercel.app/api/icons?i=tokiors,spring,fastapi,tailwindcss)
+
+#### Databases & Protocols:
+
+![Databases & Protocols](https://go-skill-icons.vercel.app/api/icons?i=postgresql,redis,websocket)
+
+#### Tools & DevOps:
+
+![Tools & DevOps](https://go-skill-icons.vercel.app/api/icons?i=linux,docker,aws,gcp,git,githubactions,maven)
 
 ---
 
